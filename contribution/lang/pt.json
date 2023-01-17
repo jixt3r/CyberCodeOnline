@@ -1769,7 +1769,7 @@
  	 	 	 	"eng": "Referral Program"
  	 	 	},
  	 	 	"skipQueue": {
- 	 	 	 	"trans": "Pular Fila",
+ 	 	 	 	"trans": "Registros de avanços",
  	 	 	 	"eng": "Skip Queue"
  	 	 	},
  	 	 	"block-list": {
